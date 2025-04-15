@@ -73,13 +73,13 @@ project/
 3. **Run the Development Server**:
    Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. **Access the Application**:
    Open your browser and navigate to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Usage
